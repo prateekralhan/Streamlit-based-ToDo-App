@@ -13,6 +13,9 @@ A simple Streamlit based To-Do webapp to keep a track of your daily tasks :wink:
 3. Navigate to http://localhost:8501 in your web-browser.
 
 
+![1](https://user-images.githubusercontent.com/29462447/154963977-a9d281a0-2707-4956-8898-c9e16366e621.png)
+
+
 ### Running the Dockerized App
 1. Ensure you have Docker Installed and Setup in your OS (Windows/Mac/Linux). For detailed Instructions, please refer [this.](https://docs.docker.com/engine/install/)
 2. Navigate to the folder where you have cloned this repository ( where the ***Dockerfile*** is present ).

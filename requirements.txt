@@ -20,6 +20,7 @@ defusedxml==0.7.1
 entrypoints==0.4
 gitdb==4.0.9
 GitPython==3.1.26
+gunicorn==20.1.0
 idna==3.3
 importlib-metadata==4.11.1
 importlib-resources==5.4.0
